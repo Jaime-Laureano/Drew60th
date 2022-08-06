@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.splash-container {
+    background-color: green;
+    height: 100vh;
+    width: 100vw;
+    background-image:url("/images/golf-background.jpg");
+    background-size: 100%;
+
+}
+
+.splash {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+
+h1 {
+    margin: 0;
+}
